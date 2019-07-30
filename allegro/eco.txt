@@ -3,8 +3,109 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:/USERS/USER/DESKTOP/WORK/AVRUSB500/allegro/AVRUSB500.brd                  |
-|                                                    Thu Jul 18 14:35:31 2019  |
+|                                                    Mon Jul 29 10:31:55 2019  |
 |------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N15182       net RENAMED (to net name listed on right)           N96501       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N15289       net RENAMED (to net name listed on right)           N96637       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N19734       net RENAMED (to net name listed on right)           N96485       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N20572       net RENAMED (to net name listed on right)           N96489       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N22544       net RENAMED (to net name listed on right)           N96779       
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|   total ECO changes reported  0                                              |
+|  C:/USERS/USER/DESKTOP/WORK/AVRUSB500/allegro/AVRUSB500.brd                  |
+|                                                    Mon Jul 29 10:31:55 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAPACITOR NON-POL_CPCYL1D225LS1
+ CAPACITOR NON-POL_CPCYL1D225L_1
+ CAPACITOR NON-POL_CPCYL1D225L_2
+ CAPACITOR NON-POL_CPCYL1D225L_4
+ R_AX400X100031_1.5K_SML2015
+ R_AX400X100031_10K_SML2015
+ R_AX400X100031_1K_SML2015
+ R_AX400X100031_2.2_SML2015
+ R_AX400X100031_220_SML2015
+ R_AX400X100031_27_SML2015
+ R_AX400X100031_470_SML2015
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/WORK/AVRUSB500/allegro/AVRUSB500.brd                  |
+|                                                    Mon Jul 29 10:31:55 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAPACITOR NON-POL_CPCYL1D225LS1 48.2600 17.7800 CAPACITOR NON-POL_CPCYL1D225LS1
+ C2                  CAPACITOR NON-POL_CPCYL1D225L_2 44.4500  5.7150 CAPACITOR NON-POL_CPCYL1D225L_2
+ C3                  CAPACITOR NON-POL_CPCYL1D225L_2 33.0200  5.7150 CAPACITOR NON-POL_CPCYL1D225L_2
+ C4                  CAPACITOR NON-POL_CPCYL1D225LS1 48.2600 26.0350 CAPACITOR NON-POL_CPCYL1D225LS1
+ C7                  CAPACITOR NON-POL_CPCYL1D225L_4 104.775 21.5900 CAPACITOR NON-POL_CPCYL1D225L_3
+ C8                  CAPACITOR NON-POL_CPCYL1D225L_4 104.775 31.1150 CAPACITOR NON-POL_CPCYL1D225L_3
+ C10                 CAPACITOR NON-POL_CPCYL1D225L_1  5.0800 12.7000 CAPACITOR NON-POL_CPCYL1D225L_1
+ R1                  R_AX400X100031_470_SML2015 56.5150 18.4150 R_AX400X100031_470_SMDRES
+ R2                  R_AX400X100031_220_SML2015 22.2250 15.2400 R_AX400X100031_220_SMDRES
+ R3                  R_AX400X100031_220_SML2015 21.5900 21.5900 R_AX400X100031_220_SMDRES
+ R4                  R_AX400X100031_220_SML2015 21.5900 27.3050 R_AX400X100031_220_SMDRES
+ R5                  R_AX400X100031_27_SML2015 67.3100  6.9850 R_AX400X100031_27_SMDRES
+ R6                  R_AX400X100031_27_SML2015 66.6750 13.3350 R_AX400X100031_27_SMDRES
+ R7                  R_AX400X100031_1.5K_SML2015 43.1800 36.8300 R_AX400X100031_1.5K_SMDRES
+ R8                  R_AX400X100031_2.2_SML2015 87.6300  6.9850 R_AX400X100031_2.2_SMDRES
+ R9                  R_AX400X100031_10K_SML2015 87.6300 13.3350 R_AX400X100031_10K_SMDRES
+ R10                 R_AX400X100031_470_SML2015 95.2500 40.0050 R_AX400X100031_470_SMDRES
+ R11                 R_AX400X100031_1K_SML2015 56.5150 24.7650 R_AX400X100031_1K_SMDRES
+ R12                 R_AX400X100031_220_SML2015 56.5150 30.4800 R_AX400X100031_220_SMDRES
+ R13                 R_AX400X100031_1K_SML2015 57.1500 36.1950 R_AX400X100031_1K_SMDRES
+ R14                 R_AX400X100031_220_SML2015 20.9550 31.7500 R_AX400X100031_220_SMDRES
+ R15                 R_AX400X100031_220_SML2015 67.3100 41.2750 R_AX400X100031_220_SMDRES
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/WORK/AVRUSB500/allegro/AVRUSB500.brd                  |
+|                                                    Mon Jul 29 10:31:55 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C7.2           104.775 21.5900 PRIM_FILE      .\pstchip.dat
+ C8.2           104.775 31.1150 PRIM_FILE      .\pstchip.dat
+ R1.2           56.5150 18.4150 PRIM_FILE      .\pstchip.dat
+ R2.2           22.2250 15.2400 PRIM_FILE      .\pstchip.dat
+ R3.2           21.5900 21.5900 PRIM_FILE      .\pstchip.dat
+ R4.2           21.5900 27.3050 PRIM_FILE      .\pstchip.dat
+ R5.2           67.3100  6.9850 PRIM_FILE      .\pstchip.dat
+ R6.2           66.6750 13.3350 PRIM_FILE      .\pstchip.dat
+ R7.2           43.1800 36.8300 PRIM_FILE      .\pstchip.dat
+ R8.2           87.6300  6.9850 PRIM_FILE      .\pstchip.dat
+ R9.2           87.6300 13.3350 PRIM_FILE      .\pstchip.dat
+ R10.2          95.2500 40.0050 PRIM_FILE      .\pstchip.dat
+ R11.2          56.5150 24.7650 PRIM_FILE      .\pstchip.dat
+ R12.2          56.5150 30.4800 PRIM_FILE      .\pstchip.dat
+ R13.2          57.1500 36.1950 PRIM_FILE      .\pstchip.dat
+ R14.2          20.9550 31.7500 PRIM_FILE      .\pstchip.dat
+ R15.2          67.3100 41.2750 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :       5                                        |
+|       Comp definitions added:      11                                        |
+|       Components changed    :      22                                        |
+|       Slot property added   :      17                                        |
+|                                                                              |
+|   Total ECO changes reported:      55                                        |
 |------------------------------------------------------------------------------|
